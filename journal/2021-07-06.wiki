@@ -1,11 +1,5 @@
-* [x] call mom
-* [x] call dad
-* [x] fix crawl-latest bug
-* [x] add alarm for errors
-* [x] create following endpoint
-* [x] check David supply graph work
 * [ ] build burn leaderboard
-* [ ] tax letters
+* [x] tax letters
 * [ ] shut down company
 * [ ] build fee burn over time
 * [ ] track one more month of expenses
